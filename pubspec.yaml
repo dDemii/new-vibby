@@ -1,0 +1,51 @@
+name: new_vibby
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_native_splash: ^1.2.0
+  intl: ^0.17.0
+  table_calendar: ^3.0.0
+  flutter_colorpicker: ^0.4.0
+  carousel_slider: ^4.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/splash.png
+    - assets/images/vibby logo.png
+    - assets/images/vibbytxt.png
+    - fonts/CherryBombOne-Regular.ttf
+    - assets/mood/meh.png
+    - assets/mood/angry.png
+    - assets/mood/happy.png
+    - assets/mood/sad.png
+    - assets/images/a.png
+    - assets/images/aldub.jpg
+    - assets/images/b.png
+    - assets/images/bits.png
+    - assets/images/c.png
+    - assets/images/coffee.jpg
+    - assets/images/core.png
+    - assets/images/exo.png
+    - assets/images/franseth.jpg
+    - assets/images/kn.jpg
+    - assets/images/me.jpg
+    - assets/images/mhie.jpg
+    - assets/images/nadine.png
+    - assets/images/share.png
+    - assets/images/tactics.png
+    - assets/images/unecs.jpg
+    - assets/images/vibbytxt.png
+    - assets/images/vibby.png
